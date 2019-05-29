@@ -17,4 +17,4 @@ Using MARS emulator, write a program that reads 12 2-digit integer numbers from 
 
 # Sample Output
 
-![alt text](https://github.com/ashrafghanem/Numbers_assembly/blob/master/Sample Output.PNG)
+![alt text](https://github.com/ashrafghanem/Numbers_assembly/blob/master/sample_output.png)
