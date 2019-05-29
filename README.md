@@ -15,6 +15,10 @@ Using MARS emulator, write a program that reads 12 2-digit integer numbers from 
 
 • Sort the array in ascending order (in-place)
 
+# MARS Simulator
+
+Click the link to download the simulator: https://courses.missouristate.edu/KenVollmar/mars/download.htm
+
 # Sample Output
 
 ![alt text](https://github.com/ashrafghanem/Numbers_assembly/blob/master/sample_output.png)
